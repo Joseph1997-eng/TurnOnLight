@@ -4,7 +4,7 @@
 **Turn On the Light** is a fun and interactive puzzle game where players rotate cable segments to complete the circuit and illuminate the light. The game challenges logic and problem-solving skills across multiple levels.  
 
 ## 🎮 Live Demo  
-🔗 [**Play Now:**] (https://joseph1997-eng.github.io/TurnOnLight/)
+🔗 [**Play Now:**](https://joseph1997-eng.github.io/TurnOnLight/)
 
 ## 🚀 Features  
 - 🧩 **Puzzle-Based Gameplay** – Rotate cable segments to complete the electrical circuit.  
